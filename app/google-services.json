@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653245334956",
+    "project_id": "digitalpaymentnfc",
+    "storage_bucket": "digitalpaymentnfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653245334956:android:7cc14e88193699e6b76609",
+        "android_client_info": {
+          "package_name": "com.example.digitalpaymentnfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf3xpszF7eTEiVMWJYCEa1whiVyuCE2Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

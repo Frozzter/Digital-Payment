@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigitalPaymentNFC</string>
+    <string name="saldo_rp_0">Saldo: Rp 0</string>
+    <string name="masukkan_jumlah">Masukkan jumlah</string>
+    <string name="top_up">Top Up</string>
+    <string name="bayar">Bayar</string>
+</resources>
